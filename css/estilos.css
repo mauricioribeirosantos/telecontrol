@@ -1,0 +1,22 @@
+.titulo {
+	width: 100%;
+	text-align: center;
+}
+
+.corpo {
+	width: 100%;
+	height: 400px;
+}
+
+.formulario {
+	width: 100%;
+	padding: 2%;
+	height: 450px;
+}
+
+.rodape {
+	width: 100%;
+	padding: 2%;
+	text-align: center;
+	background-color: #f8f9fa;
+}
